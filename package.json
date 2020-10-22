@@ -1,0 +1,25 @@
+{
+  "name": "crudapp1",
+  "version": "1.0.0",
+  "description": "A test of building a CRUD app on my own by following a tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZippyFPV/Crudapp1.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Benjamin T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZippyFPV/Crudapp1/issues"
+  },
+  "homepage": "https://github.com/ZippyFPV/Crudapp1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
